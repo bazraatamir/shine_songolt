@@ -60,7 +60,7 @@ const Footer = () => {
                             <a href='#products' className='hover:text-gray-300 text-gray-200  font-medium'>Хүргэлт</a>
                         </li>
                         <li className='block'>
-                            <a href='#contacts' className='hover:text-gray-300 text-gray-200 font-medium'>Blog</a>
+                            <a href='#contacts' className='hover:text-gray-300 text-gray-200 font-medium'>Блог</a>
                         </li>
                     </ul>
                     <ul className={`list-none flex text-lg leading-loose space-y-1 flex-col items-start justify-center text-white mb-12`}>
