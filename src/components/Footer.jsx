@@ -57,7 +57,7 @@ const Footer = () => {
                             <a href='#about' className='hover:text-gray-300 text-gray-200  font-medium'>Press</a>
                         </li>
                         <li className='block'>
-                            <a href='#products' className='hover:text-gray-300 text-gray-200  font-medium'>Delivery</a>
+                            <a href='#products' className='hover:text-gray-300 text-gray-200  font-medium'>Хүргэлт</a>
                         </li>
                         <li className='block'>
                             <a href='#contacts' className='hover:text-gray-300 text-gray-200 font-medium'>Blog</a>
